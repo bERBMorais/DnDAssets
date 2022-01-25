@@ -1,0 +1,38 @@
+An encounter in a lost desert temple, including a character, location, cursed magic item, and four desert elemental creatures with stat blocks for use in D&D 5E.
+
+A temple hides, silently buried under desert sands, its entrance recently uncovered by the winds. It is an enticing, albeit risky opportunity for adventuring parties crossing the desert, particularly when a singular voice calls out to them from the nearby, asking for their help in exchange for treasures. Surely the potential riches would be worth a quick look inside, regardless of whatever creatures might be lurking there?
+
+
+Amidst the monochromatic sands and stone of the desert, you spot the shapes of walls, foundations, and other pieces of structures. They blend into the desert’s yellow but are accented by their own shadows and sparse trees and bushes growing around them. Little other than bricks remain, any details or decorations washed away by time, though you do catch a glimpse of what might be stairs descending into the sands.
+
+The ruins themselves are far from unique; the remnants of a settlement that has been all but swallowed by the desert, its history having gone with it. The structures above ground are mostly destroyed, showing signs of having sustained major damage long ago and then eroded further by the sun and sand. Any potential decorations or belongings have likewise decayed or been stolen by previous looters. The underground interior of the ruins bears similar damage, many rooms collapsed entirely, though some areas do remain intact.
+
+Small items such as coins, vases, and statuettes are littered throughout the rooms but it is the central chamber that holds the most relevance. Its walls are covered in a faded mural, while skeletons and several other, less decayed bodies are scattered across the floor. Most of the ground is covered in sand or broken away entirely to reveal the sand and stone underneath.
+
+The room has no source of light. If the characters light their own, they notice reflected light glinting off of gold coins all across the room. If the light’s radius reaches the far end of the room, a character that succeeds on a DC 13 Wisdom (Perception) check sees a much larger shine coming from the wrist of a severed, decayed arm (see the ‘Treasure’ section).
+
+A character that checks the fresher corpses finds that they are likely very old and have dried in the desert’s heat, leaving only scraps of flesh behind. Those with identifiable garments and equipment bear the trappings of travelers, potentially adventurers or treasure hunters. A character can also make a DC 14 Wisdom (Medicine) check of these bodies to identify injuries from blunt force.
+
+Historic murals. The paintings across the chamber’s walls are damaged and faded from time but sections of them do remain to be interpreted. A character that succeeds on a DC 16 Intelligence (Investigation) or Intelligence (History) check of the murals makes out a rough timeline. They show a prosperous king, standing with his queen and their advisor before their people. The king then falls gravely ill and dies, and his queen is executed under suspicion of poisoning him, while the vizier takes the throne. It ends with the new king leading his people in wars against other nations and losing, the once-advisor shown amongst the bodies of his subjects. If the successful check was using Intelligence (History), the character is unable to link the story with any civilization they know of, likely due to the depicted outcome.
+
+Developments. Upon entering the inner chamber, a sand elemental and its sand serpent and rubble-rouser minions begin to stir. Several of the rubble-rousers awaken and attack first, while the elementals and remaining rubble-rousers join combat in the second round, the former remaining within the sand before making themselves known.
+
+You can choose a number of enemy creatures based on your party’s current level. Start with the single elemental (CR 5) as a base and use sand serpents, minor sand serpents, and rubble-rousers to increase their numbers and CR to a level that is appropriate for your party’s size and level.
+
+Treasure. A character that looks over the room finds 3d10 gp-worth of ancient gold coins strewn throughout the room. They also notice a decayed arm, desiccated but not yet skeletal, at the end of the room opposite the door. The arm is wearing the Vizier’s Band.
+----
+Vizier’s Band
+Wondrous item, rare (requires attunement)
+
+A golden band set with a black gemstone. Smaller blue stones circle its edges, between which are strings of blue and gold beads.
+While wearing this bracelet, you gain access to the resistance cantrip and can cast the meld into stone spell once per day.
+You also receive 1d10 + 5 temporary hit points at the end of every long rest. When you reduce a hostile creature to 0 hit points, you can also choose to gain 1d10 temporary hit points. While you have temporary hit points from either of these sources, you also have resistance to non-magical bludgeoning, piercing, and slashing damage, and immunity to being petrified. This does not end the petrified effect if you are already petrified when gaining the temporary hit points.
+Cursed. Once you attune to this bracelet, you can’t remove it or end your attunement to it unless targeted by the remove curse spell or similar magic.
+
+The bracelet gains one charge every time it is used to gain temporary hit points, each charge shifting the black gem’s coloration towards red. Once the bracelet has gained 5 charges, you no longer feel the natural urge to eat or drink. At 10 charges, you no longer gain any benefit from eating and begin to starve.
+If you die while wearing the bracelet, your body rises 24 hours later as a mummy. The mummy is destroyed and its body turns to dust if it moves more than 300 feet away from the Band or if the Band is destroyed or its curse is removed.
+
+---
+Cursed items can require a careful balancing act in order to make them fun. The party is unlikely to know the Vizier’s Band is cursed until the curse actually takes effect. Fortunately, the curse is a building effect and its regular magic is useful enough to still make it a worthwhile risk in its early stages. Starvation also takes time once the Band reaches 10 charges. This gives them time to potentially discover it, weigh the risks, and make decisions before it approaches any sort of lethality. This is an important aspect of making the item an interesting part of its wearer’s story rather than a flavorless punishment for the ‘mistake’ of attuning to it.
+
+Likewise, also consider how you will run the curse within the game. Remember that the identify spell and similar effects do not reveal that the item is cursed, or its curse’s effects. This means that the Band’s wearer will be the first to notice its side effects and will only discover them as they happen. You might choose to inform the character privately and simply allow them to roleplay the effects. You will need to track the Band’s accumulated charges yourself and update the character over time. Of course, the Band does not stop the character, or those around them, from noticing that they are not eating or the effects of exhaustion from starvation. At some point, someone should realize something is amiss.
