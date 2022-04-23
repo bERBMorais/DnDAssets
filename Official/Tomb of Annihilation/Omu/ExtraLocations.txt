@@ -1,0 +1,57 @@
+A) Barracks This place one served as barracks for guards and for checking the merchants and travelers entering the city. Now it's in ruins. Inside lives a colony of zorbos (6 adults and 5 non-fighting children). The adults will fight to the death to protect their spawns, attacking everyone that enters the building.
+As the players arrive there, they should be able to spot the archaeopteryx flying on the roof of location D.
+
+B) Storehouse This is where the confiscated stuff ended. Yuan-tis already looted the place, which is empty. However, the near cliff isn't. Hidden in the leaves are 4 amphipteres (Kobold Press Tome of Beasts, p.16). They emerge from the vegetation and attack. They flee if half of them are killed.
+
+C) Old stables Nothing to be found here except horse bones and the looted living quarters of the man in charge of the stables at the time.
+
+D) Greenhouse (inspired by ToA Companion) There are several rooms here, which I will describe one after another.
+
+• In the first room (which ceiling is shattered glass), there's two things to be encountered. First, prismatic flowers of multiple colors, that throw their spines if anyone come 5 feet of them (Dexterity saving throw or 5 (1d10) piercing damage ; if the target is hit, it's poisoned for 1 hour unless it succeed in a DC 12 Constitution saving throw). Second thing is a plant monster (use the shambling mound and add 4 vine blights that act at the same initiative than the shambling mound. They are a part of it, so if the shambling mound dies, the blights die too. If a vine is killed, another grows in 24 hours.
+Treasure: There's a yuan-ti pureblood corpse that can be found in the shambling mound. In his pouch are 12 gp and 24 ep. Furthermore, a PC proficient with herbalist kit or in Nature can harvest 2d6 sinda berries.
+
+• The first floor has a 13 feet high ceiling. A part of is has collapsed, but so has the stairs. PCs that want to go higher must climb their way up. Vines are hanging from the ceiling. When the PCs come in, 7 Su monsters emerge from the upper floor, hang themselves to the vines and attack. They flee if 4 of them are killed.There are skulls on the floor. Vines are growing from 3 of them. These are the skulls of old Omuans, and the vines that grow inherited a bit of their consciousness. They can't leave the place nor speak, but they can understand the behavior of the PCs. If they are respectful, the vines can help them climbing up to the second floor.
+
+• The second floor is where the bedrooms of the herbalists of Omu were. They are empty except for one, where a spell scroll is hidden under the mattress. Roll 1d4 for the spell level, then roll randomly for the spell (or pick something related with plants if you prefer).There's a window that can be used to climb to the roof. It requires a DC 10 Strength (Athletics) check. On a failure, the character fall 14 feet, taking 1d6 bludgeoning damage and landing prone.
+
+• The roof : there's a nest here! 4 archaeopteryx (Kobold Press Creature Codex p.108) live there. At any time, 3 of them are here and the other one flies somewhere in the city. When the PCs come close, 2 of them fly away. The other fight to the death to protect the 3 eggs present in the nest.
+Treasure: The eggs won't hatch if the PCs take them, but the archaeopteryx have harvested many shiny things, like magpies. Here is the full treasure: 1 turquoise (10 gp), 1 tiger eye (10 gp), 1 chrysoprase (50 gp), 1 quartz (50 gp), 1 amber (100 gp), and a small gold bracelet (25 gp).
+
+E) Ancient magic school When Acererak killed the Omuans, the wizards went there, attempting to perform a ritual to save their lives. It didn't work, but the magic explosion that was caused by it caused the place to become a wild magic zone. Once again, several rooms here. I let you organize them as you like.
+
+• The refectory and the kitchens are occupied by 6 vegepygmies. They will try to avoid battle by fleeing as soon as they see the PCs enter.
+
+• The study room contains many desks and some books (too old to be read). 6 zombies with Ras Nsi mark on their forehead wander the room.
+
+• The components store is where the wizards put their magic ingredients. It remains enough component to assemble 4 pouches of components.
+
+• The library is 2 floors high. The books are to old and wet to be read. When the PCs come in, between the collapsed bookshelves, 3 arcanaphages (Kobold Press Creature Codex p.42) go down on the first floor to attack them, attracted by their magic items. The arcanaphages are already partially fed (feed score: 3).
+
+• The hall contains old paintings and statues, but nature has claimed them back.
+
+• Living quarters : Wizards of Omu were forced to live there. There's nothing to be found in the apprentices' quarters, but the bedroom of the great wizard was not correctly looted by the yuan-tis. A sliding trapdoor on the floor can be found by checking the floor and succeeding in a DC 15 Wisdom (Perception) check. Inside, a chest contains 250 gp, 120 ep, 30 pp and a silver and gold brooch (750 gp).
+
+F) Lair of the Red Wizards This building was once the villa of the great priest of Ubtao. Now, it's where the Red Wizards camp after being attacked by the yuan-tis. The place is protected by an alarm spell at all time.
+
+G) Pyramidal crops In these pyramidal constructions, Omuans used to grow fruits and vegetables. Fruits can still be found, mixed with all sorts of invasive plants. They're worth 15 days of food, but harvesting them will take some time, and they will rot in 2 days if taken. If the characters stay here for too long, they are attacked by a warlock's trumpetbloom (Kobold Press Creature Codex p.372).
+
+H) The old temple of Ubtao... is underwater, and must be explore by swimming. Most of the rooms have collapsed, but the main one is still accessible, tho guarded by a water elemental. 2 chests can be found here. The first one contains an elephant ivory statuette (250 gp) and all sort of bronze objects damaged by time and water. The second one is locked (Dexterity (thieves' tools) DC 10 or can be destroyed). It contains 240 ep, 6 pp and a gold ring with stones (250 gp).
+
+I) The old graveyard A corpse flower and 4 zombies roam together in this place. In an open grave, the PCs can find a silver calice with gemstones worth 150 gp.
+
+J) The bathhouse Omuans used the heat of the lava underground to warm up the water of the public baths. The pools are still in place, but only western one is full of water, because the steam infiltrates inside. The bathhouse is the lair of 4 steam mephits. The presence of the PC bothers them, but they will not attack rather than tell them off. If any character speaks aquan or ignan, it can communicate with the mephits and try to parley. If the RP is good, the mephits may answer some questions about Omu and its inhabitants.
+
+K) The weeping gargoyle There's a gargoyle here, who actually cries tears, which form a puddle of water around the pedestal the gargoyle sits on. When a PC come close, the gargoyle animates and speaks these lines:
+
+"A traveler who here got lost
+Took his precious jacket off.
+It fitted me well, but now you see
+Me naked as a rock can be.
+The evil one who wraps himself
+In the jacket of the purple dragon,
+Fears death coming with his illness
+And within his court, treason."
+
+I wrote that in French, and English is not my mother tongue, so I sorry for the translation. I did my best. Anyway, this riddle gives some informations about Ras Nsi and Fenthazza's plot against him. The jacket of the purple dragon refers to the Cormyrean cloak that Ras Nsi has in his strange collection (see Tomb of Annihilation, p.229). If PCs bring the cloak back to the gargoyle, the gargoyle will fly off to a hidden cave inside the cliffs. It will bring back a sun blade for the PCs to have.
+
+L) Yuan-tis living quarters This is where most of the yuan-tis live, as the Fanum is not that big. 25 purebloods and 12 malisons in total. At every breach in the palace walls, a troop of 3 purebloods and 1 malison is on watch, next to a gong. If the gong is hit, a yuan-ti enters the Fanum to warn Ras Nsi. The other grab their weapons and come as quick as possible.
