@@ -21,7 +21,9 @@ If a vine is killed, another grows in 24 hours.
 Treasure: There's a yuan-ti pureblood corpse that can be found in the shambling mound. 
 In his pouch are 12 gp and 24 ep. Furthermore, a PC proficient with herbalist kit or in Nature can harvest 2d6 sinda berries.
 
-• The first floor has a 13 feet high ceiling. A part of is has collapsed, but so has the stairs. PCs that want to go higher must climb their way up. Vines are hanging from the ceiling. When the PCs come in, 7 Su monsters emerge from the upper floor, hang themselves to the vines and attack. They flee if 4 of them are killed.There are skulls on the floor. Vines are growing from 3 of them. These are the skulls of old Omuans, and the vines that grow inherited a bit of their consciousness. They can't leave the place nor speak, but they can understand the behavior of the PCs. If they are respectful, the vines can help them climbing up to the second floor.
+• The first floor has a 13 feet high ceiling. A part of is has collapsed, but so has the stairs. PCs that want to go higher must climb their way up. 
+Vines are hanging from the ceiling. When the PCs come in, 7 Su monsters emerge from the upper floor, hang themselves to the vines and attack. 
+They flee if 4 of them are killed. There are skulls on the floor. Vines are growing from 3 of them. These are the skulls of old Omuans, and the vines that grow inherited a bit of their consciousness. They can't leave the place nor speak, but they can understand the behavior of the PCs. If they are respectful, the vines can help them climbing up to the second floor.
 
 • The second floor is where the bedrooms of the herbalists of Omu were. They are empty except for one, where a spell scroll is hidden under the mattress. Roll 1d4 for the spell level, then roll randomly for the spell (or pick something related with plants if you prefer).There's a window that can be used to climb to the roof. It requires a DC 10 Strength (Athletics) check. On a failure, the character fall 14 feet, taking 1d6 bludgeoning damage and landing prone.
 
@@ -42,7 +44,9 @@ Once again, several rooms here. I let you organize them as you like.
 
 • The hall contains old paintings and statues, but nature has claimed them back.
 
-• Living quarters : Wizards of Omu were forced to live there. There's nothing to be found in the apprentices' quarters, but the bedroom of the great wizard was not correctly looted by the yuan-tis. A sliding trapdoor on the floor can be found by checking the floor and succeeding in a DC 15 Wisdom (Perception) check. Inside, a chest contains 250 gp, 120 ep, 30 pp and a silver and gold brooch (750 gp).
+• Living quarters : Wizards of Omu were forced to live there. There's nothing to be found in the apprentices' quarters, but the bedroom of the great wizard was not 
+correctly looted by the yuan-tis. A sliding trapdoor on the floor can be found by checking the floor and succeeding in a DC 15 Wisdom (Perception) check. 
+Inside, a chest contains 250 gp, 120 ep, 30 pp and a silver and gold brooch (750 gp).
 
 F) Lair of the Red Wizards This building was once the villa of the great priest of Ubtao. Now, it's where the Red Wizards camp after being attacked by the yuan-tis. The place is protected by an alarm spell at all time.
 
