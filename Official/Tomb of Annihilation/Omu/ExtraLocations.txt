@@ -40,7 +40,8 @@ Once again, several rooms here. I let you organize them as you like.
 
 • The components store is where the wizards put their magic ingredients. It remains enough component to assemble 4 pouches of components.
 
-• The library is 2 floors high. The books are to old and wet to be read. When the PCs come in, between the collapsed bookshelves, 3 arcanaphages (Kobold Press Creature Codex p.42) go down on the first floor to attack them, attracted by their magic items. The arcanaphages are already partially fed (feed score: 3).
+• The library is 2 floors high. The books are to old and wet to be read. 
+When the PCs come in, between the collapsed bookshelves, 3 arcanaphages (Kobold Press Creature Codex p.42) go down on the first floor to attack them, attracted by their magic items. The arcanaphages are already partially fed (feed score: 3).
 
 • The hall contains old paintings and statues, but nature has claimed them back.
 
