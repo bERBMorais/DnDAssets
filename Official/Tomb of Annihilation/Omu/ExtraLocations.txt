@@ -49,11 +49,20 @@ When the PCs come in, between the collapsed bookshelves, 3 arcanaphages (Kobold 
 correctly looted by the yuan-tis. A sliding trapdoor on the floor can be found by checking the floor and succeeding in a DC 15 Wisdom (Perception) check. 
 Inside, a chest contains 250 gp, 120 ep, 30 pp and a silver and gold brooch (750 gp).
 
-F) Lair of the Red Wizards This building was once the villa of the great priest of Ubtao. Now, it's where the Red Wizards camp after being attacked by the yuan-tis. The place is protected by an alarm spell at all time.
+F) Lair of the Red Wizards This building was once the villa of the great priest of Ubtao. 
+Now, it's where the Red Wizards camp after being attacked by the yuan-tis. 
+The place is protected by an alarm spell at all time.
 
-G) Pyramidal crops In these pyramidal constructions, Omuans used to grow fruits and vegetables. Fruits can still be found, mixed with all sorts of invasive plants. They're worth 15 days of food, but harvesting them will take some time, and they will rot in 2 days if taken. If the characters stay here for too long, they are attacked by a warlock's trumpetbloom (Kobold Press Creature Codex p.372).
+G) Pyramidal crops In these pyramidal constructions, Omuans used to grow fruits and vegetables. 
+Fruits can still be found, mixed with all sorts of invasive plants. 
+They're worth 15 days of food, but harvesting them will take some time, and they will rot in 2 days if taken. 
+If the characters stay here for too long, they are attacked by a warlock's trumpetbloom (Kobold Press Creature Codex p.372).
 
-H) The old temple of Ubtao... is underwater, and must be explore by swimming. Most of the rooms have collapsed, but the main one is still accessible, tho guarded by a water elemental. 2 chests can be found here. The first one contains an elephant ivory statuette (250 gp) and all sort of bronze objects damaged by time and water. The second one is locked (Dexterity (thieves' tools) DC 10 or can be destroyed). It contains 240 ep, 6 pp and a gold ring with stones (250 gp).
+H) The old temple of Ubtao... is underwater, and must be explore by swimming. 
+Most of the rooms have collapsed, but the main one is still accessible, tho guarded by a water elemental. 2 chests can be found here. 
+The first one contains an elephant ivory statuette (250 gp) and all sort of bronze objects damaged by time and water. 
+The second one is locked (Dexterity (thieves' tools) DC 10 or can be destroyed). 
+It contains 240 ep, 6 pp and a gold ring with stones (250 gp).
 
 I) The old graveyard A corpse flower and 4 zombies roam together in this place. In an open grave, the PCs can find a silver calice with gemstones worth 150 gp.
 
