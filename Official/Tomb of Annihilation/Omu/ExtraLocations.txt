@@ -73,7 +73,7 @@ The bathhouse is the lair of 4 steam mephits. The presence of the PC bothers the
 If any character speaks aquan or ignan, it can communicate with the mephits and try to parley. 
 If the RP is good, the mephits may answer some questions about Omu and its inhabitants.
 
-K) The weeping gargoyle There's a gargoyle here, who actually cries tears, which form a puddle of water around the pedestal the gargoyle sits on. 
+K) There's a gargoyle here, who actually cries tears, which form a puddle of water around the pedestal the gargoyle sits on. 
 When a PC come close, the gargoyle animates and speaks these lines:
 
 "A traveler who here got lost
