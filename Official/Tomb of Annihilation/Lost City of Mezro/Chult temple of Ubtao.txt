@@ -1,0 +1,318 @@
+Undergraound Temple Walkthrough:
+
+The premise is that a party member falls through a spider trap while slightly separated from the group. 
+Party members will hear their shout of surprise but will need to make DC18 Investigation checks each turn to locate the entrance to the trap. 
+The spider lair will lead to the uncovering of an anicient temple dedicated to Ubtao so I can give a lore-dump to Nipa.**ONE OF MY PLAYERS**
+
+######################## Section 1: Spider pit trap.
+
+This is the spider trap that the party member has fallen into. 3d6 falling damage - DC15 Dex to try break the fall and take half damage.
+
+"The shaft above you rises 40-50 feet and is strung with thick spider webs. 
+Soft sunlight makes its way somewhat down the now open shaft and faintly illuminates the bottom where you lie. 
+You lift your head at the sounds of movement from a dug out tunnel before you. 
+Alerted to your presence, you hear movement down the corridor and they seem to be moving in your direction!"
+
+From the tunnel lunges a Giant Spider and 1d4 Giant Wolf Spiders. 
+They will attack until the target is paralysed or unconscious and then cocoon them and drag them to the Spider Larder (Section 6).
+They will then web the top of the tunnel and cover it with leaves and grass - ready for the next victim. 
+If they somehow manage to do this before the party find the entrance then their 
+Investigation checks are made at a disadvantage and they might actually locate one of the other trapped tunnels (Sections 3 and 4).
+
+######################## Section 2: Snake Pit.
+
+"Worked stone stretches across the entrance of this area and the floor of the grotto lies 10 feet below. 
+It is slick with mud (rough terrain). Shafts of sunlight splash the surrounding walls from an opening 30 foot above and provide just enough light for sparse vegetation to eek out a living on the wet and soggy floor. 
+There is a small cave or burrow about 3 foot wide in the north-eastern corner of the cavern. It looks like a storm flood has cleared an entrance at the top of the shaft in the last few months and a trickle of water 
+drips 30 foot down the south-eastern wall of this cavern. Jungle denizens are beginning to colonise this part of the spider nest and are slowly pushing further inward. 
+Movement in the mud below and the cavern's steep walls shows dozens of snakes squirming and slithering."
+
+A successful DC17 Perception check will show the moulted skin of a very large snake near the small cave in the northwest corner indicating it may be nearby. 
+Any party member stepping down into the mud is immediately attacked by a swarm of poisonous snakes. Any further movement into the room will result in another swarm joining the fight and if any party member gets within 10 feet of the NE burrow, they will be attacked by the Giant Constrictor Snake that lives within.
+
+Attempting to climb the slick walls of the cavern (DC15 Dex every 10 feet at disadvantage) result in a Swarm of Poisonous Snakes attacking halfway up and another at the very top.
+
+######################## Sections 3: Trap Tunnels (Two of them).
+
+"The hunting tunnel stretches 40-50 feet above you and the roughly burrowed walls are studded with smaller tunnels. 
+Every 10 feet or so up the tunnel large sticky webs are strung across to alert the spiders of a new victim."
+
+Any disturbance in the webs summons a Giant Spider and 1d4 Giant Wolf Spiders.
+
+######################## Section 4: Trap Tunnel.
+
+!"""""""The hunting tunnel stretches 40-50 feet above you and the roughly burrowed walls are studded with smaller tunnels. 
+Every 10 feet or so up the tunnel large sticky webs are strung across to alert the spiders of a new victim. """"""
+A mostly decomposed skeleton lies at the bottom of this shaft and a short sword is partially buried in the dirt nearby."
+
+Successful DC13 Perception or Investigation check will reveal that the skeleton appears to be lying over something.
+
+If a party member tries to move the skeleton, it grabs them and releases Shocking Touch at 11th lvl (3d8 melee attack.) saying:
+"I will find you. I will kill you. I will make you my slave." 
+A bright blue fire appears on the skeleton's forehead and sears a downward triangle into it and charring it blue. GM: This is a spell channelled through the skeleton from Ras Nsi as he is reanimating it and only available while the undead is being reanimated. Ras Nsi has heard of the group's exploits and wants to keep an eye on them. A locate Person spell has been cast on one of the group members and the intention is for the nearest raiseable undead to follow and keep an eye on them. Unfortunately for Ras Nsi, the party were looking directly at it while he attempted to create it and this will easily be dispatched by the party.
+
+TREASURE: Beneath the skeleton are two bags. The contents infer that they belong to 2 different people but there is no sign of another skeleton nearby.There are 2 coin pouches containing 1d10g 1d20s 4d20c each. 
+One pouch contains a further 1d6 gems worth 10gp each. There is also a potion of Darkvision in each bag and a single potion of healing between them.
+Two rotten diaries are completely illegible but, if somehow mended, reveal the owners to be Callum and Vince and are simple accounts of their search for Ancient Temples to Ubtao. 
+With proper restoration and study maybe some lost temple locations may be found?
+
+######################## Section 5: Collapsed Tunnel.
+
+"This roughly burrowed tunnel ends in collapsed rock and earth. Edges of shaped stone show under the debris."
+
+Any attempt to dig through the loose rock results in a further collapse from above. DC15 Dex save to avoid 2d6 bludgeoning damage. 
+Failure by more than 5 results in the party member being buried under the rubble. They can not breathe and must make a DC18 Str check on each of their turns to dig their way out. The collapse alerts 2 Giant Wolf Spiders nearby.
+
+######################## Section 6: Passage.
+
+"This tunnel slopes downwards and curves around a corner and a thick web stretches across the path."
+
+DC15 Dex save to avoid any webs and alerting 2 Giant Spiders and 1d4 Giant Wolf Spiders nearby. Note that any open flames within 1 foot of a web WILL start to burn it and therefore alert any spiders attached to the web.
+
+"Some cut stone shows underfoot in some areas as you continue and more worked stone ends in an abrupt drop of 10 feet at the mouth of the tunnel (leading to sections 7 and 8). 
+The stone ledge continues further to the east in the gloom, although a rocky outcrop narrows available passage along it to just over a foot wide. 
+The exit to the south is covered by a thick web starting 3 foot from the ground."
+
+If heading toward room 7: DC 15 Dex or Str check to cling to the stone as you make your way along the narrow ledge. 
+Failure leads to falling backwards into the 10 foot drop (1d6 Bludgeoning). 
+Additionally, the first party member to attempt the crossing must make a further DC 15 Dex save to pull their hand away as a hiss reveals a hidden poisonous snake. 
+Failure leads to the Poisonous Snake attacking immediately at advantage and a further Swarm of Poisonous Snakes will join the fight in 1d4 turns. 
+With a success, the snake remains on the defensive and will not attack unless someone tries to occupy its square. Players can climb down and back up to gain access to section 7.
+
+
+######################## Section 7: Spider Larder.
+
+"This cramped burrow has a low ceiling only 6 foot high and the stench of rotting meat hangs heavily. There is no light and you feel cobwebs clinging to you everywhere."
+
+Any party members that are overcome will be webbed up and brought here alive for passing spiders to snack on. 
+They prefer their meals alive and if they happen to kill one, they will drag it through to the hatchlings in section 8 to feed on. 
+The freshest of victims will be given to Anarcha the Spider Queen should she require a meal.
+
+A party member that is brought here and is conscious can make a DC18 Con save after 5 turns to try shake off the effects of paralysis. 
+A success results in them being able to move ONE part of their body. 
+Creative players will use this to gain advantage on further checks which are made every 5 turns and every success results in one more part of their body returning to their control. 
+The first success also triggers the entrance of a Giant Spider who will feed off, and kill, an unfortunate lizardman cocooned nearby. 
+NB: The room is completely dark so so the party member may not be able to see anything. 
+Describing the chittering as the spider enters, the wet sound of fangs sinking into flesh, an agonised groan or a death-gurgle should get the point across.
+
+Once 4 successful Con saves have been made, all paralysis effects are removed and the party member may now make DC 18 STR checks on each of their turns to break free of the webs.
+
+For every attempt they make to break free, have Anarcha the Spider Queen (in section 9) make a DC10 Con save to see if she is hungry and wants to send for a meal. 
+Failure results in her sending one of her current consorts to fetch the freshest deposit in the Larder. 
+If the consort discovers an unsubdued party member, it will immediately dash back to Anarcha the Spider Queen and alert her of intruders. 
+She will then immediately let out a scream/shriek heard throughout the lair and all remaining spiders in the lair will make their way to her. 
+Roll for spiders in unexplored rooms as if the room encounter had been triggered. 
+Unborn swarms in Section 8 do not react to this shriek/scream. Anarcha will pursue the party as far as she can but can not enter sections 7,5, 4, Eastern 3 or 1 as even with squeezing rules she is too large. 
+Everything else in the lair however can.
+
+######################## Section 8: The Hatchery.
+
+"This naturally formed cavern is long and narrow and the sides arch steeply together to finally meet at a single roughly formed opening high above that is the only source of feint light. 
+The northern side of this space is walled off by well crafted but well weathered stone - some edges are rounded or broken and the mortar has long since crumbled away. 
+It is still set solidly however. The skill of the builders is remarkable and the wall ends at 10 foot - the area beyond it seeming to be level for a while.
+
+In the centre of the cavern , illuminated by the feint light above, lies the corpse of a brown bear. Webbed securely to the oddly level floor its bones are exposed and had been dead for days. 
+Its fur however seems to writhe and squirm fluidly as dozens of small spiders, 5 inches across swarm within - searching for the remaining morsels to devour.
+
+The far western end narrows into darkness but you can just make out in the feint light thousands of thin webs connecting several cocoons containing hundreds of eggs each."
+
+If the party wants to creep past without alerting the feeding spiders in the centre of the room, they need to succeed on a DC 15 Stealth check and not approach within 5 feet. 
+If the feeding spider swarm is alerted they immediately attack.
+There are 7 more spider swarms ready to hatch and at the top of each round roll 1d4.
+1=No more hatch this round. 2=1 more hatches. 3=2 more hatch. 4= Eggs in a central web begin to hatch. 
+
+"Movement thrums through the thin strands connecting it to all other egg sacs - activating ALL remaining swarms to hatch and swarm toward the party."
+
+######################## Section 9: The Great Web.
+
+"The hand of civilisation is far more evident here. The floor is flat and extends for 20 feet before rising again, soldier straight, for another 10 feet. 
+This second wall extends almost all the way across the chamber before turning at a perfect right angle to the north and punching through the rough natural stone and compacted soil walls of the cavern. 
+These natural walls rise steeply into the inky darkness above where, strung 60 foot across the entire space, is spun a giant web. "
+
+If the party has not already encountered Anarcha: 
+"The web however seems to be missing the middle bit and this seeming dark absence of webbing seems to grow as, too late, you realise it is a gigantic spider dropping toward you - 
+fangs and legs extended as a multitude of gleaming red eyes are fixated directly on you ....."
+
+If a party member is reduced to 0HP they are considered unconscious but stable and paralyzed and are dragged back to Section 7. Really the only risk of death is from random hungry spiders that come into the Larder and feed a bit overzealously (attacks are at advantage against webbed targets and hits auto Crit). Hopefully this means that if the party keep failing in big all-dungeon fights then they will at least get a few tries at fewer and fewer mobs whilst still having the threat of real death (NO resurrection in Tomb of Annihilation) hanging over them.
+
+TREASURE: Nope. She's a spider. But... beyond her lair, in the northwest corner, broken stairs lead up to intricately carved stone... far finer that you have seen this far....
+
+######################## Section 10: Temple Entry.
+
+"The broken stairs lead up to another unnaturally flat area. 
+The southern wall of the cavern is natural and angles sharply to meet the northern wall roughly 20 foot away. 
+The Northern wall is definitely not natural. 
+5 foot wide monoliths form the walls of the structure beyond and each is covered in stylised runes and a singular circular maze pattern - each maze vastly different from the other. 
+Some are intricate enough to confuse the eyes and others are simple."
+
+GM - RUNES: The runes are in ancient Chultan and can be deciphered with a knowledge of chultan and a successful DC 17 History check. The runes are different on the cornerstones, outside and inside facing edges.
+
+The runes on the outside facing edges of the structure are stories of daily life and each corner and twist of the maze reflects a part of the story. 
+Careful and prolonged study of the correlations may provide insights into deciphering the meaning of other unexplained mazes (Like a "Rosetta Stone" for mazes). 
+Scholars could be very interested in copies of these runes with their corresponding counterparts. 
+Lore gained if studied: "You get the sense that Ubtao used to love walking among his people in different forms (he was a Primordial Shape changer). 
+He would dispense advice to guide them and civilisation flourished earlier in Chult in the recovery from the Dawn War than elsewhere in Toril."
+
+The runes on the inside facing edges however detail the life story (including both achievements and defeats) of each Assistant Architect of the Temple. 
+Each massive stone face is dedicated to a single Assistant and their personal mazes are dizzyingly complex. 
+Lore gained: "Ancient worshipers believed that Life was a Maze you had to work through and knowing your own personal maze was essential. 
+Some Diviners professed to be able to tell your future from the maze you had drawn up to that point in life. It should be obvious by now that Ubtao was pretty keen on puzzles and mazes."
+
+The runes on each of the cornerstones are identical and detail the life and achievement of the Prime Architect Omatta, builder of this temple. 
+The elegant runes are highly stylized and the maze contains intricate loops weaving knots around each other. 
+More runes seem to have been added in a less elegant but still fine hand. 
+These runes detail more of Omatta's story and it appears he was elevated to a kind of Sainthood and many worshipers of Ubtao came here on pilgrimage. 
+Lore gained if studied: "At the end of your life your soul/essence, whatever, would travel through a jungle maze to present yourself before Ubtao. 
+You would then draw your maze before him and receive your eternal reward. If you performed to Ubtao's satisfaction you were then granted entrance to blissful afterlife. 
+But you better know your maze! If Ubtao was displeased and you made a mistake then you would be raised again in Chult as a Ghoul. Worshipers took their mazes pretty seriously."
+
+Stone door puzzle:**"A large stone door denies entry to the structure. It is set within an enormous quarried stone frame and lintel that are carved intricately in the form of a 
+Jaguar headed man battling a coiled serpent with 2 large opals for its milky eyes - long fangs open wide as its opponent holds it at bay. 
+Scrolled script written in VERY old dialect in Chult reads: (DC 17 History, 10 mins between checks) " Speak truth or the serpent venom be your fate ". 
+Seven empty spaces appear below the script."
+
+**GM: 5 Stone tiles are found in the rubble surrounding the Large stone door (DC 15 Investigation check with 1 hour search in-between checks). 
+Pictures are found on one side and text on the other. 
+The tiles need to be put in chronological order, picture face showing while saying the text aloud (Clue it says "Speak truth or the bla bla bla").
+After the last tile is placed the pictures will flare orange and, if they were placed correctly, the door will grind open and grant entry to the Temple Sanctum (Section 11). 
+Failure leads to the carved serpent animating and lunging past Ubtao's defence to strike at a random member of the party before the Ubtao statue reaches down to grab it by the neck and drag it back into place. 
+3d10 Poison Damage and the poisoned effect for 1d4 hours. DC15 Dex save for half damage and NO poisoned effect.
+
+Tile Picture A: A Jaguar holding a dead dove in it's mouth approaching a coiled snake. 
+Text on reverse says: "In the guise of friendship Ubtao approached Dendar who was in much pain as he consumed the sun. "Brother, you are in much pain. Let me ease your burden for a while...".
+
+Tile Picture B: Two circles, barely touching. One etched to appear dark and the other polished bright. 
+Text reads: " As the Dawn War ended, Toril and Abeir forever divided, Ubtao alone of his Primordial kind remained in the realm of the Gods. Our lands of Chult became His own to cherish and we have made him well pleased. He walks among us, His mighty hands guide us and His watchful eyes forever guard the Peaks of Flame."
+
+Tile Picture C: Snake eating an orb. 
+Text on reverse says : "During the Dawn war when the Primordial Elementals and Gods were fighting over the world Dendar the Nightserpent ate the sun and threw the world into an ice age."
+
+Tile Picture D: An erupting volcano with a snake coiled beneath it eating its own tail and in the shape of an intricate maze. 
+The text on the reverse says: "The sudden light blinded Dendar but Ubtao was prepared. Eyes still shut, he sealed Dendar in an unimaginable maze beneath the Peaks of Flame - forever to wander and seek his escape."
+
+Tile Picture E: Beings with halos and lines radiating out of them giving a scroll to a giant Jaguar. 
+Text on reverse says: "Another Primordial, Ubtao The Deceiver, was not pleased with this frozen - soon to be barren - world and made a deal with the Gods: He would place the sun back in the sky and betray his Primordial kin. In return he would be granted the lands of Chult and everything therein and the Gods would never enter His realm."
+
+Tile Picture F: 2 large hands encompassing a large temple surrounded by tiny forests set in an intricate circular maze. 
+The text reads: " Our wish to honour Him in a place worthy of Him has been granted. His mighty hands are raising a temple to the South... it's name is Mezro. Pass through the divine jungle maze and seek His wisdom there. Fall to your knees before our God Ubtao, reveal your path and receive your eternal reward!"
+
+Tile Picture G: A heavily muscled man with the head of a jaguar fighting a giant snake and holding an orb above his head. 
+Text on reverse reads: "Dendar was selfish of his prize and attacked Ubtao. Their struggle shook and shattered the land but Ubtao finally wrested the sun from Dendar's throat.
+
+SOLUTION: Correct tiles in order C E A G D B F. The text reads:
+"During the Dawn war when the Primordial Elementals and Gods were fighting over the world Dendar the Nightserpent ate the sun and threw the world into an ice age. 
+Another Primordial, Ubtao The Deceiver, was not pleased with this frozen, soon to be barren world and made a deal with the Gods: 
+He would place the sun back in the sky and betray his Primordial kin. In return he would be granted the lands of Chult and everything therein and the Gods would never enter His realm.
+
+In the guise of friendship Ubtao approached Dendar who was in much pain as he consumed the sun. 
+"Brother, you are in much pain. Let me ease your burden for a while...". 
+Dendar was selfish of his prize and attacked Ubtao. 
+Their struggle shook and shattered the land but Ubtao finally wrested the sun from Dendar's throat. 
+The sudden light blinded Dendar but Ubtao was prepared. Eyes still shut, he sealed Dendar in an unimaginable maze beneath the Peaks of Flame - forever to wander and seek his escape.
+
+As the Dawn War ended, Toril and Abeir forever divided, Ubtao alone of his Primordial kind remained in the realm of the Gods. 
+Our lands of Chult became His own to cherish and we have made him well pleased. 
+He walks among us, His mighty hands guide us and His watchful eyes forever guard the Peaks of Flame. 
+Our wish to honour Him in a place worthy of Him has been granted. His mighty hands are raising a temple to the South... it's name is Mezro. 
+Pass through the divine jungle maze and seek His wisdom there. Fall to your knees before our God Ubtao and receive your eternal reward!"
+
+######################## Section 11: Temple Sanctum.
+
+"Moss covers corners and parts of the ceiling have fallen down, only matted roots above holding back further detritus. 
+Somehow untouched and pristine stand 7 altars surrounding a plinth showing Ubtao putting the sun back in the sky. 
+On the altars are carved stone tomes gilded in gold. Scribed on the tomes is the same story as before. Glancing up you see a broken and crumbling maze built into the ceiling."
+
+GM: The story starts from the northern altar (UP) and goes clockwise. To activate the maze, the party needs to kneel at the altars in front of the statue 
+(Clue: " Fall to your knees before our God Ubtao, reveal ... bla bla bla) and recite their part of the story that appears on the tome in front of them (in any language) in order. 
+Each story part can be successfully translated with a successful DC14 Intelligence check and scribing tools, successful performance check to rehearse or by any other creative means. 
+Any unfilled positions at the altars are filled by ghostly figures as the party recite the rest of the story in unison.
+
+When the party is successful in activating the maze:
+"As you finish reciting the story, the golden orb from the statue speeds up to a point in the centre of the maze and gives out a hollow thump. 
+The broken masonry on the floor begins to rise up and complete the maze. As the last stone slides into place the entire rooms falls into impenetrable darkness... 
+save for the Northern most altar. A source less light envelops the party member kneeling there and they can see the maze, the globe and their altar...nothing more."
+
+GM: While the light envelops their altar, the party member can move the globe 5 spaces and then the light will move to the next altar in a clockwise fashion and the party member kneeling there has their turn. 
+Once the last party member kneeling has made their move the light will return to the North altar and resume the cycle - the ghostly figures (if used) remain but are not included in this cycle. 
+Depending on how receptive to the party they are, the ghosts may offer helpful hints if the party struggle, disparaging comments or remain silent.
+
+One of the ghosts is Omatta, creator of the temple (who's body is interred in a secret room revealed by solving the maze a different way - the target point is revealed after completing the maze for the first time). 
+More information on him later but he could appear here if the party need the space filled. 
+**I could not get roll20 work correctly (I'm a novice) at the correct map scale so created a different page for this - lets see how it goes**
+Completing the maze causes the north stone door to slide down into the ground granting entry onto a crumbling stairway leading up to the shrine beyond.
+
+
+######################## Section 12: Shrine to Ubtao.
+
+"The dilapidated stairway leading up to the shrine no longer has railings. The walls on both sides have entirely tumbled away to fall in jagged heaps 15 foot below. 
+From your elevation at the base of the stairs you can just see the massive glowing head and shoulders of Ubtao's gilded statue. 
+It appears humanoid but contains elements of many different races. Sharp fangs, upswept pointed ears and possibly inner tusks from the shape of the jaw line. 
+Eyes that seemed far too large are the source of the softly glowing light" 
+GM: Again - he was a shape changer and this is supposed to denote changing shape to wonder among the people.
+
+The shrine: The 4 support columns are again smothered in carved runes but these have then been filled with beaten gold and polished glassy smooth. 
+4 curved plaques circle the gilded statue and detail 
+Ubtao's Alignment (True Neutral), 
+Home plane (House of Nature), 
+Realm (Labyrinth of Life), 
+Portfolio (Chult and the Chultans within/Creation/Dinosaurs/Jungles) and 
+Domains (Balance/Planning/Plant/Pride/Protection/Scaleykind).
+
+Anyone who kneels before the statue (and has solved the maze) receives Ubtao's Blessings and are granted the effects of both the Bless and Guidance spells for the next 24 hours (For the next 24 hours they can: 
+roll a d4 and add the number rolled to one ability check of its choice per turn. They can roll the die before or after making the ability check. 
+Additionally, whenever a they make an attack roll or a saving throw in the next 24 hours, they can roll a d4 and add the number rolled to the attack roll or saving throw (once per turn).
+
+When a party member returns to Section 11, the ghost of Omatta appears and reveals there is a second solution to to the maze and a section on the other side of it slides open to reveal an accommodating slot for the glowing orb 
+(that is currently slotted on the opposite side and holding the door to the shrine open). Going through the ritual again and moving the glowing orb to the new slot causes one of the monolithic support columns to 
+slide down revealing a secret entrance with a spiralling staircase leading down to Omatta's Burial Chamber (Section 13).
+
+######################## Section 13: Omatta's Burial Chamber.
+
+" The curving staircase is crumbling but in better repair than the previous one and looks like it can support more weight (120lbs). 
+It leads into a low arched room containing a single sarcophagus. 
+Polished stone and beaten gold adorn it in intricate filigree and a smaller rendition of the Shrine statue features prominently in the centre. 
+Just above it a life-maze that matches the ones on the cornerstones of the Temple Sanctum (Section 11) indicate this as the final resting place of Omatta's bones. 
+The bottom of the maze, just above the replica statue's head is worn smooth, as if touched by many hands in a gesture of possible religious significance.
+
+At the head of the sarcophagus stands/floats Omatta's ghost looking a little unsettled and noticeably less substantial.
+
+"I need to give you something." it says but then looks a little distracted. "I feel .... a pulling." After a brief pause he continues: 
+"Something is drawing me far to the **CHOOSE DIRECTION OF OMU HERE DEPENDING ON WHERE YOU HAVE PUT THIS DUNGEON eg South** and I fear I may not be here to protect it for long." 
+It gestures to the sealed sarcophagus "It lies within." Abruptly he turns to face the **DIRECTION** and peers into the distance at the wall 2 foot away. "
+
+GM: The pull it feels is the Soulmonger pulling at any loose souls it can to feed the ever more demanding Atropal.
+
+Any party member that does not check for traps is met with a disapproving tutt and "Do you really believe they would leave my bones unprotected?". 
+It then shows the party the correct runes and glyphs to touch in sequence and, when the last is pressed, the party member feels a sharp prick drawing a single bead of blood … a 
+"necessary sacrifice to open it. Beware, a trap lies within". A quick hiss sounds and the lid pops up ever so slightly.
+
+A successful DC16 use of Thieves Tools allows them to slide the tools in the narrow gap to cap a hole in a hinge and unclip a wire from the activation device to disable the trap.
+
+Failure however leads to a sleeping gas issuing from several hidden holes in the filigree, accompanied by a continuous ringing that lasts for 4 minutes and can be heard 100 feet away. 
+Anyone inside the room or stairwell must succeed a DC18 constitution save at the beginning of their turn or succumb to the sleeping gas for 3d10 minutes. 
+Additionally, a slow grinding sounds as the stone monolith revealing the secret entrance at the top of the stairwell begins to raise and close off. 
+It will be closed in 3 turns and only small creatures or smaller can pass through on the 3rd round. 
+An ancient mechanism forces the already crumbling stairwell to collapse and to exit the party members now need to pass a DC15 Str check to climb the 15 foot back into the Temple Sanctum before it seals off. 
+If Omatta is attacked he will retreat until everyone in the room is asleep or stunned.
+
+Anyone coming round from their nap is met with a slightly exasperated and far more indistinct ghostly Omatta.
+
+Once the gas clears or the sarcophagus is opened:
+
+Omatta is now almost completely faded away and his voice is almost a whisper. He explains the trap was designed to trap robbers and it was expected that temple guards would be here within minutes. 
+He asks them to remove the heavy lid and it is revealed that the replica statue is actually a statue secured with a sturdy clip to the lid. 
+Pilgrims who solved both mazes would come to touch Omatta's golden life-maze for Ubtao's Guidance and the statue (that was attached to the life-maze) would grant the boon.
+
+The statue grants the spell guidance on one target and can be used 1d4 times per day. (Recharges at dawn). Once before the effect ends, the target can roll a d4 and add the number rolled to one ability check of its choice. 
+It can roll the die before or after making the ability check. The spell then ends.
+
+"Omatta is now looking clearly afraid and has no time to answer anyone's questions. "I am so glad I found someone to protect it... I hope you are worthy." 
+He spins toward the **DIRECTION** again and looks horrified. "Oh no.. I see it now. Its the Forsaken One!" and he begins to scream. 
+Suddenly the remaining feint wisps that make up his incorporeal body are ripped violently apart and his feint scream ends."
+
+
+
+Possible Spin?: Omatta is actually a powerful Vampire serving a dark Drow deity. He was sealed here with a concealed magical sustaining gem embedded under his ribcage. 
+He has been sustained through blood sacrifice by the spiders (servants to Lolth) who bring him still living victims from their traps. 
+Centuries trapped, all he could do was hone his skill with the magical gem and the entire temple is an illusion he has managed to fashion with it to trick adventurers into releasing the seals on his prison. 
+Through his influence the shrine has actually been converted to his dark deity and any "Blessings" received actually turn out to be curses and the statue is a cursed item.
